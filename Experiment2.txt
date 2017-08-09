@@ -54,7 +54,7 @@ int DeleteAccount(char dID[]) {
 	}
 	//如果找到该账户，删除该账户所在位置信息
 	if(i<counts) {
-		for(int j =1; j<counts-1; j++) { //??创建了7个数组?j+1值的覆盖?
+		for(int j =1; j<counts-1; j++) { 
 			pName[j] = pName[j+1];
 			pID[j] = pID[j+1];
 			account[j] = account[j+1];
