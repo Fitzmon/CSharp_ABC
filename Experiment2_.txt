@@ -1,4 +1,4 @@
-﻿OBJECTIVE
+OBJECTIVE
 	理解类与对象的概念，掌握类的定义，对象的使用。
 CONTENT
 	银行与储户行为的模拟
